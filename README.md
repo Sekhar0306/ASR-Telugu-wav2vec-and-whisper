@@ -59,8 +59,7 @@ Feel free to change these configurations based on your requirements. For example
 1. **Clone the Repository**:
 
 ```bash
-git clone https://github.com/KaarthikeyaK/Telugu-ASR-Wav2Vec2.0-and-Whisper.git
-cd Telugu-ASR-Wav2Vec2.0-and-Whisper
+
 ```
 
 2. **Prepare the Audio File**:
