@@ -59,7 +59,7 @@ Feel free to change these configurations based on your requirements. For example
 1. **Clone the Repository**:
 
 ```bash
-
+gh repo clone Sekhar0306/ASR-Telugu-wav2vec-and-whisper
 ```
 
 2. **Prepare the Audio File**:
